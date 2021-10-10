@@ -1,0 +1,7 @@
+[2021-6-27 12:06:34] layer "terceramayor@gmail.com": Unsupported extension: com
+[2021-6-27 12:06:34] layer "React.js": Unsupported extension: js
+[2021-6-27 12:06:34] layer "Node.js": Unsupported extension: js
+[2021-6-27 12:06:34] layer "Express.js": Unsupported extension: js
+[2021-6-27 12:06:34] layer "p5.js": Unsupported extension: js
+[2021-6-27 12:06:34] layer "+34 620 44 32 34": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2021-6-27 12:06:34] layer "Mongoose.js": Unsupported extension: js
